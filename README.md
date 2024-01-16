@@ -5,7 +5,7 @@ This is a project i did for the CY461-INTRODUCTION TO STEGANOGRAPHY course at JU
 This is a python code that implements LSB steganography in the raw sapatial domain of the cover video.
 Please check the documentation PDF to learn more about the tool.
 
-It has 3 main functions:
+### Main functions
 * Embedding.
   * Takes any video as input and the message you want to embed, and produces a wav file (stego video). 
 * Extraction.

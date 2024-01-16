@@ -19,7 +19,7 @@ Please check the documentation PDF to learn more about the tool.
 
 ### TODO
 * Add embedding in the Audio stream of the file.
- * i think this can be done by using lossless audio codecs.
+  * i think this can be done by using lossless audio codecs.
 
 ### Disclaimer
 *  The code is provided for educational purposes only. It is intended to help individuals learn about coding, programming, and related concepts. The use of this code for any malicious or unauthorized activities is strictly prohibited. The author is not responsible for any misuse or damage caused by this code. Use it responsibly and within the bounds of ethical and legal guidelines.

@@ -14,6 +14,7 @@ It has 3 main functions:
   * Takes two videos as input, and returns the average SSIM score between every 2 frames of the video. It is used to check the quality difference between the two videos. 
 
 
+### Disclaimer
 *  The code is provided for educational purposes only. It is intended to help individuals learn about coding, programming, and related concepts. The use of this code for any malicious or unauthorized activities is strictly prohibited. The author is not responsible for any misuse or damage caused by this code. Use it responsibly and within the bounds of ethical and legal guidelines.
 *  Do not share my work without my permission.
 *  If you want permission, please email me on mailto:azooztbaishat@gmail.com
